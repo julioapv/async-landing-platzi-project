@@ -1,1 +1,1 @@
-# async-landing-platzi-project
+# async-landing-project
